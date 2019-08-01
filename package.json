@@ -1,0 +1,27 @@
+{
+  "name": "fashion-show-website",
+  "version": "0.1.0",
+  "description": "RSC Fashion Show Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beeen0001/Fashion-Show-Website.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Website"
+  ],
+  "author": "Ben Griffiths",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Beeen0001/Fashion-Show-Website/issues"
+  },
+  "homepage": "https://github.com/Beeen0001/Fashion-Show-Website#readme",
+  "devDependencies": {
+    "htmlhint": "^0.11.0"
+  }
+}
