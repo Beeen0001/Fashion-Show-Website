@@ -1,0 +1,25 @@
+body {
+  background-color: #191517ff;
+}
+#RSC {
+  color: #f2f2f2;
+  font-family: "Oswald", sans-serif;
+}
+#FASHION {
+  color: #94fbab;
+  font-family: "Oswald", sans-serif;
+}
+#SHOW {
+  color: #a9fff7;
+  font-family: "Oswald", sans-serif;
+}
+#home {
+  color: #b8e1ff;
+}
+#footer {
+  color: #f2f2f2;
+  text-align: center;
+}
+a {
+  color: #f2f2f2;
+}
