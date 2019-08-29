@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "proxima-nova-regular";
+    src: url("/Volumes/Development/Fashion-Show-Website/css/fonts/proxima-nova/proxima-nova-webfontkit/proximanova-regular-webfont.woff2") format("woff2"),
+         url("/Volumes/Development/Fashion-Show-Website/css/fonts/proxima-nova/proxima-nova-webfontkit/proximanova-regular-webfont.woff") format("woff"),
+         url("/Volumes/Development/Fashion-Show-Website/css/fonts/proxima-nova/proxima-nova-webfontkit/proximanova-regular-webfont.ttf") format("ttf");
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+  background-color: #191517ff;
+}
+h1 {
+  line-height: 20px;
+}
+#RSC {
+  color: #f2f2f2;
+  font-family: "Oswald", sans-serif;
+}
+#FASHION {
+  color: #94fbab;
+  font-family: "Oswald", sans-serif;
+}
+#SHOW {
+  color: #a9fff7;
+  font-family: "Oswald", sans-serif;
+}
+#home {
+  color: #b8e1ff;
+}
+#footer {
+  color: #f2f2f2;
+  text-align: center;
+}
+a {
+  color: #f2f2f2;
+  font-family: "proxima-nova-regular";
+  text-decoration: none;
+}
