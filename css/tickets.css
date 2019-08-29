@@ -1,0 +1,81 @@
+@font-face {
+    font-family: "oswald-bold";
+    src: url("/Volumes/Development/Fashion-Show-Website/css/fonts/oswald/oswald-bold/oswald-bold-webfont.woff2") format("woff2"),
+         url("/Volumes/Development/Fashion-Show-Website/css/fonts/oswald/oswald-bold/oswald-bold-webfont.woff") format("woff"),
+         url("/Volumes/Development/Fashion-Show-Website/css/fonts/oswald/oswald-bold/oswald-bold-webfont.ttf") format("ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "proxima-nova-regular";
+    src: url("/Volumes/Development/Fashion-Show-Website/css/fonts/proxima-nova/proxima-nova-regular/proximanova-regular-webfont.woff2") format("woff2"),
+         url("/Volumes/Development/Fashion-Show-Website/css/fonts/proxima-nova/proxima-nova-regular/proximanova-regular-webfont.woff") format("woff"),
+         url("/Volumes/Development/Fashion-Show-Website/css/fonts/proxima-nova/proxima-nova-regular/proximanova-regular-webfont.ttf") format("ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "proxima-nova-bold";
+    src: url("/Volumes/Development/Fashion-Show-Website/css/fonts/proxima-nova/proxima-nova-bold/proxima_nova_bold-webfont.woff2") format("woff2"),
+         url("/Volumes/Development/Fashion-Show-Website/css/fonts/proxima-nova/proxima-nova-bold/proxima_nova_bold-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+  background-color: #191517ff;
+}
+
+.h1-tickets {
+  padding-left: 30px;
+}
+
+.h1-tickets h1 {
+  display: inline-block;
+  font-size: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#RSC {
+  color: #f2f2f2;
+  font-family: "oswald-bold", sans-serif;
+}
+
+#FASHION {
+  color: #94fbab;
+  font-family: "oswald-bold", sans-serif;
+}
+
+#SHOW {
+  color: #a9fff7;
+  font-family: "oswald-bold", sans-serif;
+}
+
+#tickets {
+  color: #b8e1ff;
+}
+
+#tickets:hover {
+  color: #bcb6ff;
+}
+
+.nav-tickets a {
+  color: #f2f2f2;
+  font-family: "proxima-nova-bold";
+  text-decoration: none;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.nav-tickets {
+  position: absolute;
+  left: 300px;
+  top: 61px;
+}
+
+.nav-tickets a:hover {
+  color: #bcb6ff;
+}
