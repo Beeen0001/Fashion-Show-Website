@@ -1,4 +1,13 @@
 @font-face {
+    font-family: "oswald-bold";
+    src: url("/Volumes/Development/Fashion-Show-Website/css/fonts/oswald/oswald-bold/oswald-bold-webfont.woff2") format("woff2"),
+         url("/Volumes/Development/Fashion-Show-Website/css/fonts/oswald/oswald-bold/oswald-bold-webfont.woff") format("woff"),
+         url("/Volumes/Development/Fashion-Show-Website/css/fonts/oswald/oswald-bold/oswald-bold-webfont.ttf") format("ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
     font-family: "proxima-nova-regular";
     src: url("/Volumes/Development/Fashion-Show-Website/css/fonts/proxima-nova/proxima-nova-regular/proximanova-regular-webfont.woff2") format("woff2"),
          url("/Volumes/Development/Fashion-Show-Website/css/fonts/proxima-nova/proxima-nova-regular/proximanova-regular-webfont.woff") format("woff"),
@@ -29,17 +38,17 @@ body {
 
 #RSC {
   color: #f2f2f2;
-  font-family: "Oswald", sans-serif;
+  font-family: "oswald-bold", sans-serif;
 }
 
 #FASHION {
   color: #94fbab;
-  font-family: "Oswald", sans-serif;
+  font-family: "oswald-bold", sans-serif;
 }
 
 #SHOW {
   color: #a9fff7;
-  font-family: "Oswald", sans-serif;
+  font-family: "oswald-bold", sans-serif;
 }
 
 #home {
