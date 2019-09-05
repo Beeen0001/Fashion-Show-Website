@@ -89,3 +89,15 @@ body {
   height: 83.5%;
   width: 30%;
 }
+
+.content-tickets {
+  color: #f2f2f2;
+  font-family: "proxima-nova-regular";
+  font-size: 20px;
+  text-align: left;
+  padding-left: 160px;
+  padding-right: 20px;
+  position: absolute;
+  top: 120px;
+  left: 300px
+}
