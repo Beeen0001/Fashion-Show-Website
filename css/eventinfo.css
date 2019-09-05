@@ -80,11 +80,11 @@ body {
   color: #bcb6ff;
 }
 
-#eventinfo {
+#eventinfo-eventinfo {
   color: #b8e1ff;
 }
 
-#eventinfo:hover {
+#eventinfo-eventinfo:hover {
   color: #bcb6ff;
 }
 
@@ -99,78 +99,78 @@ body {
   top: 140px;
 }
 
-#AITM {
+#AITM-eventinfo {
   color: #f2f2f2;
   font-family: "kaushan-script-regular";
   font-size: 40px;
 }
 
-.details {
+.details-eventinfo {
   line-height: 0px;
 }
 
-.address p {
+.address-eventinfo p {
   display: inline-block;
 }
 
-#address {
+#address-eventinfo {
   font-family: "proxima-nova-bold";
 }
 
-.date p {
+.date-eventinfo p {
   display: inline-block;
 }
 
-#date {
+#date-eventinfo {
   font-family: "proxima-nova-bold";
 }
 
-.time p {
+.time-eventinfo p {
   display: inline-block;
 }
 
-#time {
+#time-eventinfo {
   font-family: "proxima-nova-bold";
 }
 
-.venue p {
+.venue-eventinfo p {
   display: inline-block;
 }
 
-#venue {
+#venue-eventinfo {
   font-family: "proxima-nova-bold";
 }
 
-#gate {
+#gate-eventinfo {
   font-style: italic;
 }
 
-.ticket-cost p {
+.ticket-cost-eventinfo p {
   display: inline-block;
 }
 
-#ticket-cost {
+#ticket-cost-eventinfo {
   font-family: "proxima-nova-bold";
 }
 
-.email p {
+.email-eventinfo p {
   display: inline-block;
 }
 
-#email {
+#email-eventinfo {
   font-family: "proxima-nova-bold";
 }
 
-#email-link {
+#email-link-eventinfo {
   color: #b8e1ff;
   text-decoration: none;
 }
 
-.phone p {
+.phone-eventinfo p {
   display: inline-block;
 }
 
-#phone {
+#phone-eventinfo {
   font-family: "proxima-nova-bold";
 }
 
