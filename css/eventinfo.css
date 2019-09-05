@@ -47,27 +47,19 @@ body {
   padding-bottom: 20px;
 }
 
-#RSC {
+#rsc-eventinfo {
   color: #f2f2f2;
   font-family: "oswald-bold", sans-serif;
 }
 
-#FASHION {
+#fashion-eventinfo {
   color: #94fbab;
   font-family: "oswald-bold", sans-serif;
 }
 
-#SHOW {
+#show-eventinfo {
   color: #a9fff7;
   font-family: "oswald-bold", sans-serif;
-}
-
-#eventinfo {
-  color: #b8e1ff;
-}
-
-#eventinfo:hover {
-  color: #bcb6ff;
 }
 
 .nav-eventinfo a {
@@ -85,6 +77,14 @@ body {
 }
 
 .nav-eventinfo a:hover {
+  color: #bcb6ff;
+}
+
+#eventinfo {
+  color: #b8e1ff;
+}
+
+#eventinfo:hover {
   color: #bcb6ff;
 }
 
