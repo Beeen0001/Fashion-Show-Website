@@ -87,3 +87,99 @@ body {
 .nav-eventinfo a:hover {
   color: #bcb6ff;
 }
+
+.content-eventinfo {
+  color: #f2f2f2;
+  font-family: "proxima-nova-regular";
+  font-size: 20px;
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 460px;
+  position: absolute;
+  top: 140px;
+}
+
+#AITM {
+  color: #f2f2f2;
+  font-family: "kaushan-script-regular";
+  font-size: 40px;
+}
+
+.details {
+  line-height: 0px;
+}
+
+.address p {
+  display: inline-block;
+}
+
+#address {
+  font-family: "proxima-nova-bold";
+}
+
+.date p {
+  display: inline-block;
+}
+
+#date {
+  font-family: "proxima-nova-bold";
+}
+
+.time p {
+  display: inline-block;
+}
+
+#time {
+  font-family: "proxima-nova-bold";
+}
+
+.venue p {
+  display: inline-block;
+}
+
+#venue {
+  font-family: "proxima-nova-bold";
+}
+
+#gate {
+  font-style: italic;
+}
+
+.ticket-cost p {
+  display: inline-block;
+}
+
+#ticket-cost {
+  font-family: "proxima-nova-bold";
+}
+
+.email p {
+  display: inline-block;
+}
+
+#email {
+  font-family: "proxima-nova-bold";
+}
+
+#email-link {
+  color: #b8e1ff;
+  text-decoration: none;
+}
+
+.phone p {
+  display: inline-block;
+}
+
+#phone {
+  font-family: "proxima-nova-bold";
+}
+
+.anchala-eventinfo img {
+  position: absolute;
+  right: 0px;
+  top: 130px;
+  object-fit: cover;
+  object-position: 50% 0;
+  height: 83.5%;
+  width: 30%;
+}
