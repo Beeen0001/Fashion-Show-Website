@@ -1,0 +1,157 @@
+@font-face {
+    font-family: "oswald-bold";
+    src: url("/Volumes/Development/Fashion-Show-Website/css/fonts/oswald/oswald-bold/oswald-bold-webfont.woff2") format("woff2"),
+         url("/Volumes/Development/Fashion-Show-Website/css/fonts/oswald/oswald-bold/oswald-bold-webfont.woff") format("woff"),
+         url("/Volumes/Development/Fashion-Show-Website/css/fonts/oswald/oswald-bold/oswald-bold-webfont.ttf") format("ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "proxima-nova-regular";
+    src: url("/Volumes/Development/Fashion-Show-Website/css/fonts/proxima-nova/proxima-nova-regular/proximanova-regular-webfont.woff2") format("woff2"),
+         url("/Volumes/Development/Fashion-Show-Website/css/fonts/proxima-nova/proxima-nova-regular/proximanova-regular-webfont.woff") format("woff"),
+         url("/Volumes/Development/Fashion-Show-Website/css/fonts/proxima-nova/proxima-nova-regular/proximanova-regular-webfont.ttf") format("ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "proxima-nova-bold";
+    src: url("/Volumes/Development/Fashion-Show-Website/css/fonts/proxima-nova/proxima-nova-bold/proxima_nova_bold-webfont.woff2") format("woff2"),
+         url("/Volumes/Development/Fashion-Show-Website/css/fonts/proxima-nova/proxima-nova-bold/proxima_nova_bold-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+  background-color: #191517ff;
+}
+
+.h1-faqs {
+  padding-left: 30px;
+}
+
+.h1-faqs h1 {
+  display: inline-block;
+  font-size: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#RSC {
+  color: #f2f2f2;
+  font-family: "oswald-bold", sans-serif;
+}
+
+#FASHION {
+  color: #94fbab;
+  font-family: "oswald-bold", sans-serif;
+}
+
+#SHOW {
+  color: #a9fff7;
+  font-family: "oswald-bold", sans-serif;
+}
+
+#faqs {
+  color: #b8e1ff;
+}
+
+#faqs:hover {
+  color: #bcb6ff;
+}
+
+.nav-faqs a {
+  color: #f2f2f2;
+  font-family: "proxima-nova-bold";
+  text-decoration: none;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.nav-faqs {
+  position: absolute;
+  left: 300px;
+  top: 55px;
+}
+
+.nav-faqs a:hover {
+  color: #bcb6ff;
+}
+
+.scarlet-faqs img {
+  position: absolute;
+  left: 0px;
+  top: 130px;
+  object-fit: cover;
+  object-position: 59% 0;
+  height: 83.5%;
+  width: 30%;
+}
+
+.content-faqs {
+  color: #f2f2f2;
+  font-family: "proxima-nova-regular";
+  font-size: 20px;
+  text-align: left;
+  padding-left: 160px;
+  padding-right: 20px;
+  position: absolute;
+  top: 140px;
+  left: 300px
+}
+
+.Q1 {
+  padding-bottom: 12px;
+}
+
+#Q1 {
+  font-family: "proxima-nova-bold";
+  line-height: 0px;
+}
+
+.Q2 {
+  padding-bottom: 12px;
+}
+
+#Q2 {
+  font-family: "proxima-nova-bold";
+  line-height: 0px;
+}
+
+.Q3 {
+  padding-bottom: 12px;
+}
+
+#Q3 {
+  font-family: "proxima-nova-bold";
+  line-height: 0px;
+}
+
+.Q4 {
+  padding-bottom: 12px;
+}
+
+#Q4 {
+  font-family: "proxima-nova-bold";
+  line-height: 0px;
+}
+
+.Q5 {
+  padding-bottom: 12px;
+}
+
+#Q5 {
+  font-family: "proxima-nova-bold";
+  line-height: 0px;
+}
+
+.Q6 {
+  padding-bottom: 12px;
+}
+
+#Q6 {
+  font-family: "proxima-nova-bold";
+  line-height: 0px;
+}
