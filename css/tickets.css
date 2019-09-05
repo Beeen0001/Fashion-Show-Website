@@ -39,26 +39,26 @@ body {
   padding-bottom: 20px;
 }
 
-#RSC {
+#rsc-tickets {
   color: #f2f2f2;
   font-family: "oswald-bold", sans-serif;
 }
 
-#FASHION {
+#fashion-tickets {
   color: #94fbab;
   font-family: "oswald-bold", sans-serif;
 }
 
-#SHOW {
+#show-tickets {
   color: #a9fff7;
   font-family: "oswald-bold", sans-serif;
 }
 
-#tickets {
+#tickets-tickets {
   color: #b8e1ff;
 }
 
-#tickets:hover {
+#tickets-tickets:hover {
   color: #bcb6ff;
 }
 
