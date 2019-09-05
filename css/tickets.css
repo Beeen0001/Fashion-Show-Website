@@ -79,3 +79,13 @@ body {
 .nav-tickets a:hover {
   color: #bcb6ff;
 }
+
+.lara-tickets img {
+  position: absolute;
+  left: 0px;
+  top: 130px;
+  object-fit: cover;
+  object-position: 31% 0;
+  height: 83.5%;
+  width: 30%;
+}
