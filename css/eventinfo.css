@@ -1,33 +1,33 @@
 @font-face {
     font-family: "kaushan-script-regular";
-    src: url("/Volumes/Development/Fashion-Show-Website/css/fonts/kaushan-script/kaushan-script-regular/kaushanscript-regular-webfont.woff2") format("woff2"),
-         url("/Volumes/Development/Fashion-Show-Website/css/fonts/kaushan-script/kaushan-script-regular/kaushanscript-regular-webfont.woff") format("woff");
+    src: url("fonts/kaushan-script/kaushan-script-regular/kaushanscript-regular-webfont.woff2") format("woff2"),
+         url("fonts/kaushan-script/kaushan-script-regular/kaushanscript-regular-webfont.woff") format("woff");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "oswald-bold";
-    src: url("/Volumes/Development/Fashion-Show-Website/css/fonts/oswald/oswald-bold/oswald-bold-webfont.woff2") format("woff2"),
-         url("/Volumes/Development/Fashion-Show-Website/css/fonts/oswald/oswald-bold/oswald-bold-webfont.woff") format("woff"),
-         url("/Volumes/Development/Fashion-Show-Website/css/fonts/oswald/oswald-bold/oswald-bold-webfont.ttf") format("ttf");
+    src: url("fonts/oswald/oswald-bold/oswald-bold-webfont.woff2") format("woff2"),
+         url("fonts/oswald/oswald-bold/oswald-bold-webfont.woff") format("woff"),
+         url("fonts/oswald/oswald-bold/oswald-bold-webfont.ttf") format("ttf");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "proxima-nova-regular";
-    src: url("/Volumes/Development/Fashion-Show-Website/css/fonts/proxima-nova/proxima-nova-regular/proximanova-regular-webfont.woff2") format("woff2"),
-         url("/Volumes/Development/Fashion-Show-Website/css/fonts/proxima-nova/proxima-nova-regular/proximanova-regular-webfont.woff") format("woff"),
-         url("/Volumes/Development/Fashion-Show-Website/css/fonts/proxima-nova/proxima-nova-regular/proximanova-regular-webfont.ttf") format("ttf");
+    src: url("fonts/proxima-nova/proxima-nova-regular/proximanova-regular-webfont.woff2") format("woff2"),
+         url("fonts/proxima-nova/proxima-nova-regular/proximanova-regular-webfont.woff") format("woff"),
+         url("fonts/proxima-nova/proxima-nova-regular/proximanova-regular-webfont.ttf") format("ttf");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "proxima-nova-bold";
-    src: url("/Volumes/Development/Fashion-Show-Website/css/fonts/proxima-nova/proxima-nova-bold/proxima_nova_bold-webfont.woff2") format("woff2"),
-         url("/Volumes/Development/Fashion-Show-Website/css/fonts/proxima-nova/proxima-nova-bold/proxima_nova_bold-webfont.woff") format("woff");
+    src: url("fonts/proxima-nova/proxima-nova-bold/proxima_nova_bold-webfont.woff2") format("woff2"),
+         url("fonts/proxima-nova/proxima-nova-bold/proxima_nova_bold-webfont.woff") format("woff");
     font-weight: normal;
     font-style: normal;
 }
