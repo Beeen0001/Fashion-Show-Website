@@ -1,3 +1,4 @@
+/* Font Imports */
 @font-face {
     font-family: "kaushan-script-regular";
     src: url("../fonts/kaushan-script/kaushan-script-regular/kaushanscript-regular-webfont.woff2") format("woff2"),
@@ -32,10 +33,12 @@
     font-style: normal;
 }
 
+/* Global Styles */
 body {
   background-color: #191517ff;
 }
 
+/* Header */
 .h1-eventinfo {
   padding-left: 30px;
 }
@@ -62,6 +65,7 @@ body {
   font-family: "oswald-bold", sans-serif;
 }
 
+/* Navigation */
 .nav-eventinfo a {
   color: #f2f2f2;
   font-family: "proxima-nova-bold";
@@ -88,6 +92,7 @@ body {
   color: #bcb6ff;
 }
 
+/* Content */
 .content-eventinfo {
   color: #f2f2f2;
   font-family: "proxima-nova-regular";
@@ -174,6 +179,7 @@ body {
   font-family: "proxima-nova-bold";
 }
 
+/* Image */
 .anchala-eventinfo img {
   position: absolute;
   right: 0px;

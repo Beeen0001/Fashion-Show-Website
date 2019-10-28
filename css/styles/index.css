@@ -1,3 +1,4 @@
+/* Font Imports */
 @font-face {
     font-family: "oswald-bold";
     src: url("../fonts/oswald/oswald-bold/oswald-bold-webfont.woff2") format("woff2"),
@@ -24,10 +25,12 @@
     font-style: normal;
 }
 
+/* Global Styles */
 body {
   background-color: #191517ff;
 }
 
+/* Header */
 .h1-index {
   line-height: 20px;
   font-size: 30px;
@@ -51,6 +54,7 @@ body {
   font-family: "oswald-bold", sans-serif;
 }
 
+/* Navigation */
 .nav-index a {
   color: #f2f2f2;
   font-family: "proxima-nova-bold";
@@ -71,6 +75,7 @@ body {
   color: #bcb6ff;
 }
 
+/* Image */
 .chloe-index img {
   position: absolute;
   left: 350px;
@@ -80,6 +85,7 @@ body {
   width: 75.6%;
 }
 
+/* Footer */
 footer {
   color: #f2f2f2;
   font-family: "proxima-nova-regular";
