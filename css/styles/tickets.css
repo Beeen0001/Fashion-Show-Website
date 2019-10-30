@@ -106,3 +106,27 @@ body {
   top: 120px;
   left: 460px
 }
+
+/* Form */
+.form-contact {
+  position: absolute;
+  top: 300px;
+  left: 460px;
+}
+
+.form-payment {
+  position: absolute;
+  top: 400px;
+  left: 460px;
+  display: none;
+}
+
+input[type=text] {
+  font-family: "proxima-nova-regular";
+  font-size: 16px;
+  padding: 12px 12px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #bcb6ff;
+  border-radius: 4px;
+}
