@@ -108,25 +108,95 @@ body {
 }
 
 /* Form */
-.form-contact {
-  position: absolute;
-  top: 300px;
-  left: 460px;
-}
-
-.form-payment {
-  position: absolute;
-  top: 400px;
-  left: 460px;
-  display: none;
-}
-
+/* Form - Global Styles */
 input[type=text] {
   font-family: "proxima-nova-regular";
   font-size: 16px;
   padding: 12px 12px;
   margin: 8px 0;
   box-sizing: border-box;
+  border: 2px solid #b8e1ff;
+  border-radius: 4px;
+}
+
+input[type=submit] {
+  font-family: "proxima-nova-bold";
+  font-size: 20px;
+  padding: 12px 12px;
+  margin: 8px 0;
+  box-sizing: border-box;
   border: 2px solid #bcb6ff;
   border-radius: 4px;
+}
+
+/* Form - Contact Information */
+.form-contact {
+  position: absolute;
+  top: 330px;
+  left: 460px;
+  width: 60%;
+}
+
+input[name=form-contact-firstName] {
+  width: 25%;
+}
+
+input[name=form-contact-lastName] {
+  width: 25%;
+}
+
+input[name=form-contact-email] {
+  width: 40%;
+}
+
+input[name=form-contact-quantity] {
+  width: 12%;
+}
+
+/* Form - Payment Information */
+.form-payment {
+  position: absolute;
+  top: 460px;
+  left: 460px;
+  width: 60%;
+}
+
+input[name=form-payment-cardNumber] {
+  width: 25%;
+}
+
+input[name=form-payment-expirationDate] {
+  width: 20%;
+}
+
+input[name=form-payment-CVV] {
+  width: 10%;
+}
+
+input[name=form-payment-address] {
+  width: 50%;
+}
+
+input[name=form-payment-city] {
+  width: 20%;
+}
+
+input[name=form-payment-postCode] {
+  width: 15%;
+}
+
+input[name=form-payment-state] {
+  width: 20%;
+}
+
+input[name=form-payment-country] {
+  width: 25%;
+}
+
+/* Form - Submit */
+.form-submit {
+  position: absolute;
+  top: 670px;
+  left: 460px;
+  width: 60%;
 }
