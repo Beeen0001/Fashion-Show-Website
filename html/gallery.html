@@ -10,6 +10,7 @@
     <link rel="stylesheet" type="text/css" href="../css/styles/gallery.css">
 
     <!-- Javascript Import -->
+    <script type="text/javascript" src="../javascript/slideshow.js"></script>
 
     <!-- Favicon Import -->
     <link rel="icon" href="../css/images/favicon.png">
@@ -38,7 +39,57 @@
 
     <!-- Slideshow -->
     <main>
+      <div class="slideshow">
+        <div class="slides fade">
+          <div class="number">1 / 6</div>
+          <img src="../css/images/gallery/choir-2018.jpg" style="width:100%">
+          <div class="caption">Choir 2018</div>
+        </div>
 
+        <div class="slides fade">
+          <div class="number">2 / 6</div>
+          <img src="../css/images/gallery/year10-2017.jpg" style="width:100%">
+          <div class="caption">Year 10 2017</div>
+        </div>
+
+        <div class="slides fade">
+          <div class="number">3 / 6</div>
+          <img src="../css/images/gallery/year11-2017.jpg" style="width:100%">
+          <div class="caption">Year 11 2017</div>
+        </div>
+
+        <div class="slides fade">
+          <div class="number">4 / 6</div>
+          <img src="../css/images/gallery/year11-2018.jpg" style="width:100%">
+          <div class="caption">Year 11 2018</div>
+        </div>
+
+        <div class="slides fade">
+          <div class="number">5 / 6</div>
+          <img src="../css/images/gallery/year12-2018.jpg" style="width:100%">
+          <div class="caption">Year 12 2018</div>
+        </div>
+
+        <div class="slides fade">
+          <div class="number">6 / 6</div>
+          <img src="../css/images/gallery/year12-2019.jpg" style="width:100%">
+          <div class="caption">Year 12 2019</div>
+        </div>
+
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+      </div>
+
+      <br>
+
+      <div style="text-align:center">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+        <span class="dot" onclick="currentSlide(4)"></span>
+        <span class="dot" onclick="currentSlide(5)"></span>
+        <span class="dot" onclick="currentSlide(6)"></span>
+      </div>
     </main>
 
   </body>
